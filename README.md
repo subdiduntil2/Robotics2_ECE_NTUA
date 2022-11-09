@@ -1,2 +1,2 @@
 # Robotics2_ECE_NTUA
-Theoretical &amp; Lab Assignments on Robotics II course [2021-2022]
+This repository includes the Theoretical &amp; Lab Assignments on Robotics II course of ECE NTUA [2021-2022]
